@@ -9,8 +9,8 @@ Zeba Quadri/ Effective Connectivity: First-level dynamic causal modeling (DCM)
  (Zeidman et al., 2019). The scripts for DCM model specification, estimation and comparison can
  be found in the repository along with the script for bar plot of the parameter estimates (see
  ‘03-dcm-first-level’)
- Exploring Perception and Imagination of Tactile Stimulation in the Somatosensory and
- Motor Cortex
+ Exploring Perception and Imagination of Tactile Stimulation in the Somatosensory and Motor Cortex
+ INTRODUCTION
  Research has shown that imagining tactile sensations can activate the primary
  somatosensory cortex (S1) in a way that mirrors actual tactile experiences (Nierhaus et al., 2023).
  This is an example of sensory recruitment. Where mental imagery is the processing of a stimulus
